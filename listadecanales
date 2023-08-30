@@ -2,7 +2,7 @@
 
 
 
-#EXTINF: -1 ,Venevisión
+#EXTINF: -1 ,Venevision
 http://191.102.90.97:8000/play/a092/index.m3u8
 
 #EXTINF: -1 ,Televen
@@ -15,7 +15,7 @@ https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 
 #EXTINF: -1 ,IVC
-http://premiumultra.xyz:8080/941753964tv/n754ji/23187
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153996
 
 #EXTINF: -1 ,TRV
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
@@ -37,9 +37,6 @@ https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u
 
 #EXTINF: -1 ,Colombeia
 https://cdn.odysee.live/content/ba3d31fdf59976d63976e5a2173df36b442104ba/master.m3u8
-
-#EXTINF: -1 ,eSportsMAX TV
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF: -1 ,EXC TV
 http://premiumultra.xyz:8080/941753964tv/n754ji/35023
@@ -72,7 +69,7 @@ https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
 https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 
 #EXTINF: -1 ,Ve Plus
-http://190.122.96.187:8888/http/006
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153982
 
 #EXTINF: -1 ,Vive
 https://cdn.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
@@ -83,17 +80,17 @@ https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 #EXTINF: -1 ,TV Familia
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 
-#EXTINF: -1 ,Latina TV
-https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
-
 #EXTINF: -1 ,VPI TV
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
 #EXTINF: -1 ,Canal i
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
+#EXTINF: -1,SUNChannel
+http://190.92.7.19:8000/play/a02t/index.m3u8
+
 #EXTINF: -1 ,DISTRITO COMEDIA
-http://premiumultra.xyz:8080/941753964tv/n754ji/635
+http://premiumultra.xyz:8080/941753964tv/n754ji/634
 
 #EXTINF: -1 ,GALAVISION
 http://premiumultra.xyz:8080/941753964tv/n754ji/22875
@@ -110,15 +107,6 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF: -1 ,Caracol CL
 http://160.20.165.245:8000/play/a00h/index.m3u8
 
-#EXTINF: -1 ,RCN Más
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF: -1 ,RT Esp
-http://160.20.165.245:8000/play/a00w/index.m3u8
-
-#EXTINF: -1 ,Más Chic
-http://premiumultra.xyz:8080/941753964tv/n754ji/55058
-
 #EXTINF: -1 ,France 24 Español
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
@@ -134,11 +122,11 @@ http://45.169.99.154:58001/play/a00a/index.m3u8
 #EXTINF: -1 ,Telemundo HD
 http://160.20.165.245:8000/play/a002/index.m3u8
 
-#EXTINF: -1 ,TELEMUNDO 51 MIAMI HD
+#EXTINF: -1 ,Telemundo Miami
 http://1tv41.icu:8080/Py5zFZ/363334/56410
 
-#EXTINF: -1 ,Unicable
-http://jagertv.us:8880/Guille/Guille/368
+#EXTINF: -1 ,Azteca Internacional
+http://190.92.7.19:8000/play/a016/index.m3u8
 
 #EXTINF: -1 ,Pasiones
 http://160.20.165.245:8000/play/a00g/index.m3u8
@@ -146,13 +134,10 @@ http://160.20.165.245:8000/play/a00g/index.m3u8
 #EXTINF: -1 ,Oromar TV
 http://160.20.165.245:8000/play/a00t/index.m3u8
 
-#EXTINF: -1 ,GENIOS TV
-http://jagertv.us:8880/Guille/Guille/146623
-
-#EXTINF: -1 ,EWTN el Canal Católico
+#EXTINF: -1 ,EWTN Canal Catolico
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF: -1 ,Enlace TV
+#EXTINF: -1 ,Enlace TV Canal Cristiano
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 
 
@@ -160,22 +145,22 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF: -1 ,Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF: -1 ,History
+#EXTINF: -1 ,History Channel
 http://45.169.99.154:58001/play/a02f/index.m3u8
 
-#EXTINF: -1 ,Animal Planet HD
+#EXTINF: -1 ,Animal Planet
 http://45.169.99.154:58001/play/a011/index.m3u8
 
-#EXTINF: -1 ,Discovery H&H HD
+#EXTINF: -1 ,Discovery H&H
 http://1tv41.icu:8080/Py5zFZ/363334/66245
 
-#EXTINF: -1 ,Discovery Turbo HD
+#EXTINF: -1 ,Discovery TURBO
 http://1tv41.icu:8080/Py5zFZ/363334/139757
 
-#EXTINF: -1 ,Discovery Channel HD
+#EXTINF: -1 ,Discovery CHANNEL
 http://45.169.99.154:58001/play/a00r/index.m3u8
 
-#EXTINF: -1 ,Discovery Channel
+#EXTINF: -1 ,Discovery CHANNEL FHD
 http://1tv41.icu:8080/Py5zFZ/363334/57625
 
 #EXTINF: -1 ,Discovery ID HD
@@ -184,7 +169,7 @@ http://45.169.99.154:58001/play/a00w/index.m3u8
 #EXTINF: -1 ,Discovery Theater
 http://181.119.67.75:16123/play/ch09
 
-#EXTINF: -1 ,Discovery World HD
+#EXTINF: -1 ,Discovery WORLD
 http://45.169.99.154:58001/play/a00t/index.m3u8
 
 #EXTINF: -1 ,Azteca Clikc HD
